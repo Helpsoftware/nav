@@ -106,8 +106,8 @@ try {
     id: -2,
     workTitle: '距离下班还有',
     restTitle: '休息啦',
-    startDate: new Date(2018, 3, 26, 9, 0, 0).getTime(),
-    date: new Date(2018, 3, 26, 18, 0, 0).getTime(),
+    startDate: new Date(2025, 2, 14, 8, 3, 0).getTime(),
+    date: new Date(2025, 2, 14, 17, 0, 0).getTime(),
   }
   if (idx >= 0) {
     components[idx] = {
